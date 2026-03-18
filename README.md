@@ -1,4 +1,4 @@
-# rui-hyprland
+# rui hyprland noob rice
 my "arch" linux hyrpland rice
 
 ![overview](shot.png)
