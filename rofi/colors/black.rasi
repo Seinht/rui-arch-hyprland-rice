@@ -1,0 +1,18 @@
+/**
+ *
+ * Author : Aditya Shakya (adi1090x)
+ * Github : @adi1090x
+ * 
+ * Colors
+ **/
+
+@import "~/.cache/wal/colors-rofi-dark.rasi"
+
+* {
+    background:     #141d2f;
+    background-alt: #101010FF;
+    foreground:     #FFFFFFFF;
+    selected:         #101725;
+    active:         #98C379FF;
+    urgent:         #E06B74FF;
+}
